@@ -1,0 +1,9 @@
+<Server>
+    <Service>
+        <Connector port="8080">
+            <Engine>
+                <Host name="localhost" appBase="webapps" />
+            </Engine>
+        </Connector>
+    </Service>
+</Server>

@@ -1,0 +1,2 @@
+http://localhost:8080/web_demo1/lagou
+http://localhost:8080/web_demo2/lagou
